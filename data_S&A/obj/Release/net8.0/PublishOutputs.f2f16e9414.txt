@@ -1,0 +1,5 @@
+/Users/msinishin/data_S&A/bin/Release/net8.0/publish/data_S&A
+/Users/msinishin/data_S&A/bin/Release/net8.0/publish/data_S&A.dll
+/Users/msinishin/data_S&A/bin/Release/net8.0/publish/data_S&A.deps.json
+/Users/msinishin/data_S&A/bin/Release/net8.0/publish/data_S&A.runtimeconfig.json
+/Users/msinishin/data_S&A/bin/Release/net8.0/publish/data_S&A.pdb
