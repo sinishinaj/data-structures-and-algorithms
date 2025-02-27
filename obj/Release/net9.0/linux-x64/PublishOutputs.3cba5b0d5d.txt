@@ -1,0 +1,2 @@
+/home/shin/data-structures-and-algorithms/bin/Release/net9.0/linux-x64/publish/data-structures-and-algorithms.pdb
+/home/shin/data-structures-and-algorithms/bin/Release/net9.0/linux-x64/publish/data-structures-and-algorithms
