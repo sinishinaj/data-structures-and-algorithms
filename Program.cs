@@ -24,7 +24,7 @@ namespace MyApp
       List<Exercise> exercises = new List<Exercise>();
       exercises.Add(new ObjectsStringsReferences{name="Exercise 1: Objects, strings, and references."});
       exercises.Add(new Encryption{name="Exercise 2: Encryption."});
-      // exercises.Add(new PracticingArraysAndLists{name="Exercise 3: Practicing arrays, and lists."});
+      exercises.Add(new PracticingArraysAndLists{name="Exercise 3: Practicing arrays, and lists."});
 
       string listExercises = "";
       foreach (Exercise exercise in exercises){
@@ -38,8 +38,13 @@ namespace MyApp
       exercises[desiredExercise-1].Run();
     }
     public static string RequestInput (string request) {
-      Console.WriteLine("\n\n"+request+"\n");
+      if (request != " "){
+        Console.WriteLine("\n\n"+request+"\n");
+      }
       string input = Console.ReadLine();
+      if (input == ""){
+        input = RequestInput(" ");
+      }
       return input;
     }
   }
