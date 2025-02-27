@@ -1,5 +1,5 @@
 public class ObjectsStringsReferences : MyApp.Program.Exercise {
-  public string name { get; set; }
+  required public string name { get; set; }
   public void Run() {
     var Id = MyApp.Program.RequestInput("Please enter the ID of an engine in lower-case!");
     var engineId = Id.ToUpper();

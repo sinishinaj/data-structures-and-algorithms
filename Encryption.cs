@@ -1,5 +1,5 @@
 public class Encryption : MyApp.Program.Exercise {
-  public string name { get; set; }
+  required public string name { get; set; }
   public void Run() {
     var input = MyApp.Program.RequestInput("Please enter a message that you would like to be encrypted into binary!");
     var binary = manipulateString(input, false);
@@ -8,9 +8,9 @@ public class Encryption : MyApp.Program.Exercise {
   }
   public Dictionary<string,char> encryptionTable = new Dictionary<string, char>
     {
-      {"00100000", ' ' },
-      {"00100001", '!' },
-      {"00100010", '"' },
+      {"00100000", ' '},
+      {"00100001", '!'},
+      {"00100010", '"'},
       {"00100100", '$'},
       {"00100101", '%'},
       {"00100110", '&'},

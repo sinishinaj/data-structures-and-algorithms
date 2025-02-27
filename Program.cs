@@ -41,8 +41,8 @@ namespace MyApp
       if (request != " "){
         Console.WriteLine("\n\n"+request+"\n");
       }
-      string input = Console.ReadLine();
-      if (input == ""){
+      var input = Console.ReadLine();
+      if (input == " " || input == null){
         input = RequestInput(" ");
       }
       return input;

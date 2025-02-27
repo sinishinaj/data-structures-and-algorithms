@@ -1,7 +1,7 @@
 using Microsoft.VisualBasic;
 
 public class PracticingArraysAndLists : MyApp.Program.Exercise {
-  public string name { get; set; }
+  required public string name { get; set; }
   public void Run() {
     string listInput = MyApp.Program.RequestInput("Please enter a series of integers, or text; all separated with a comma!");
     string[] arrayStrings = listInput.Split(", ");
