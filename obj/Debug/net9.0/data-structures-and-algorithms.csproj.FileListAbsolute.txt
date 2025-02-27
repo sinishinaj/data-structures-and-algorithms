@@ -1,0 +1,15 @@
+/home/shin/data-structures-and-algorithms/bin/Debug/net9.0/data-structures-and-algorithms
+/home/shin/data-structures-and-algorithms/bin/Debug/net9.0/data-structures-and-algorithms.deps.json
+/home/shin/data-structures-and-algorithms/bin/Debug/net9.0/data-structures-and-algorithms.runtimeconfig.json
+/home/shin/data-structures-and-algorithms/bin/Debug/net9.0/data-structures-and-algorithms.dll
+/home/shin/data-structures-and-algorithms/bin/Debug/net9.0/data-structures-and-algorithms.pdb
+/home/shin/data-structures-and-algorithms/obj/Debug/net9.0/data-structures-and-algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/home/shin/data-structures-and-algorithms/obj/Debug/net9.0/data-structures-and-algorithms.AssemblyInfoInputs.cache
+/home/shin/data-structures-and-algorithms/obj/Debug/net9.0/data-structures-and-algorithms.AssemblyInfo.cs
+/home/shin/data-structures-and-algorithms/obj/Debug/net9.0/data-structures-and-algorithms.csproj.CoreCompileInputs.cache
+/home/shin/data-structures-and-algorithms/obj/Debug/net9.0/data-structures-and-algorithms.dll
+/home/shin/data-structures-and-algorithms/obj/Debug/net9.0/refint/data-structures-and-algorithms.dll
+/home/shin/data-structures-and-algorithms/obj/Debug/net9.0/data-structures-and-algorithms.pdb
+/home/shin/data-structures-and-algorithms/obj/Debug/net9.0/data-structures-and-algorithms.genruntimeconfig.cache
+/home/shin/data-structures-and-algorithms/obj/Debug/net9.0/ref/data-structures-and-algorithms.dll
+/home/shin/data-structures-and-algorithms/obj/Debug/net9.0/data-structures-and-algorithms.sourcelink.json
