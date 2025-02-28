@@ -5,7 +5,7 @@ public class PracticingArraysAndLists : MyApp.Program.Exercise {
   public void Run() {
     string listInput = MyApp.Program.RequestInput("Please enter a series of integers, or text; all separated with a comma!");
     string[] arrayStrings = listInput.Split(", ");
-    if (arrayStrings.Length <= 0){
+    if (arrayStrings.Length <= 13){
       arrayStrings = listInput.Split(",");
     }
     List<string> listStrings = arrayStrings.ToList();

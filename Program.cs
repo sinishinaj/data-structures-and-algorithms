@@ -9,6 +9,7 @@ namespace MyApp
       public string name { get; set; }
       public void Run();
     }
+
     static void Main(string[] args)
     {
       ShowExercises();
@@ -19,7 +20,7 @@ namespace MyApp
       }
       Console.WriteLine("\n I'll take that as a no. Very well! Have a good day. Be seeing you on the next one.");
     }
-
+    
     static void ShowExercises(){
       List<Exercise> exercises = new List<Exercise>();
       exercises.Add(new ObjectsStringsReferences{name="Exercise 1: Objects, strings, and references."});
